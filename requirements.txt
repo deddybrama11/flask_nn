@@ -15,7 +15,6 @@ jsonify==0.5
 kiwisolver==1.1.0
 lxml==4.5.0
 MarkupSafe==1.1.1
-matplotlib==3.1.1
 mysql-connector==2.2.9
 networkx==2.4
 numpy==1.17.2
@@ -37,3 +36,4 @@ tqdm==4.46.0
 virtualenv==20.0.4
 Werkzeug==1.0.0
 zipp==2.2.0
+matplotlib==2.2.5
